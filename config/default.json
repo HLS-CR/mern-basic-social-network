@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://lars123:lars123@devconnector-sacge.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "...",
+  "githubClientId": "...",
+  "githubSecret": "..."
+}
